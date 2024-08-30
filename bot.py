@@ -11,6 +11,7 @@ class SimpleChatbot:
             'como você está?': ['Estou bem, obrigado!', 'Tudo certo, e você?'],
             'qual é o seu nome?': ['Eu sou um chatbot sem nome.', 'Você pode me chamar de Chatbot.'],
             'tchau': ['Tchau!', 'Até logo!', 'Adeus!'],
+            'Oque é o Jira?': ['O jira é uma ferramenta de gestão de processos', 'é um recurso muito usado por causa de gerir processos']
             'passa a resposta da lição': ['qual é a lição?'],
             'lição de ia': ['qual semana e aula?'],
             's15- aula- 3': ['a resposta é criar perguntas para o chat bot interagir com você']
